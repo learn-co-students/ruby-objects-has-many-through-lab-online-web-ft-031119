@@ -1,4 +1,4 @@
-# Ruby Object Relations: Has-Many-Through Lab
+9# Ruby Object Relations: Has-Many-Through Lab
 
 ## Objectives
 
